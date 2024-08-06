@@ -33,4 +33,5 @@
 
 .text-sm {
   font: var(--text-sm);
+  color: var(--text-color-secondary);
 }
