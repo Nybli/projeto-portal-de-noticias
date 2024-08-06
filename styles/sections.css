@@ -98,7 +98,7 @@ section header {
   }
 
   h3 {
-    margin-block: 8px 4px;
+    margin-block: 8px 14px;
   }
 }
 
@@ -107,7 +107,7 @@ aside {
 }
 
 #more {
-  margin-top: 32px;
+  margin-top: 28px;
 
   h3 {
     margin-top: 8px;
